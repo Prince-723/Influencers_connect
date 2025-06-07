@@ -1,0 +1,337 @@
+Influencer Name,Month,Followers,Avg Likes/Post,Avg Comments/Post,Engagement Rate (%)
+Cristiano Ronaldo @cristiano,Jun-2023,3265259,80455,3054,2.56
+Cristiano Ronaldo @cristiano,Jul-2023,3295654,43240,1067,1.34
+Cristiano Ronaldo @cristiano,Aug-2023,3354633,34927,1714,1.09
+Cristiano Ronaldo @cristiano,Sep-2023,3401051,90634,2390,2.74
+Cristiano Ronaldo @cristiano,Oct-2023,3427180,55125,1970,1.67
+Cristiano Ronaldo @cristiano,Nov-2023,3453471,64368,1849,1.92
+Cristiano Ronaldo @cristiano,Dec-2023,3470516,54983,1703,1.63
+Cristiano Ronaldo @cristiano,Jan-2024,3510674,67129,2923,2.0
+Cristiano Ronaldo @cristiano,Feb-2024,3546966,77495,1657,2.23
+Cristiano Ronaldo @cristiano,Mar-2024,3557167,78794,1978,2.27
+Cristiano Ronaldo @cristiano,Apr-2024,3582055,84839,2817,2.45
+Cristiano Ronaldo @cristiano,May-2024,3612651,44944,1566,1.29
+Cristiano Ronaldo @cristiano,Jun-2024,3663635,59476,2117,1.68
+Cristiano Ronaldo @cristiano,Jul-2024,3677907,76994,1966,2.15
+Cristiano Ronaldo @cristiano,Aug-2024,3728266,43881,1135,1.21
+Cristiano Ronaldo @cristiano,Sep-2024,3768743,41096,1223,1.12
+Cristiano Ronaldo @cristiano,Oct-2024,3778569,100414,3082,2.74
+Cristiano Ronaldo @cristiano,Nov-2024,3802754,59394,2154,1.62
+Cristiano Ronaldo @cristiano,Dec-2024,3846943,44205,2192,1.21
+Cristiano Ronaldo @cristiano,Jan-2025,3878005,98675,2561,2.61
+Cristiano Ronaldo @cristiano,Feb-2025,3936776,100094,2224,2.6
+Cristiano Ronaldo @cristiano,Mar-2025,3994474,68582,1610,1.76
+Cristiano Ronaldo @cristiano,Apr-2025,4041034,67153,1471,1.7
+Cristiano Ronaldo @cristiano,May-2025,4101155,66519,1979,1.67
+Leo Messi @leomessi,Jun-2023,1226001,34014,1162,2.87
+Leo Messi @leomessi,Jul-2023,1246574,15447,639,1.29
+Leo Messi @leomessi,Aug-2023,1261292,32061,1116,2.63
+Leo Messi @leomessi,Sep-2023,1283604,26255,861,2.11
+Leo Messi @leomessi,Oct-2023,1296998,21124,744,1.69
+Leo Messi @leomessi,Nov-2023,1308028,36822,1011,2.89
+Leo Messi @leomessi,Dec-2023,1330773,19397,432,1.49
+Leo Messi @leomessi,Jan-2024,1340632,21175,525,1.62
+Leo Messi @leomessi,Feb-2024,1360174,35464,907,2.67
+Leo Messi @leomessi,Mar-2024,1376011,38323,1386,2.89
+Leo Messi @leomessi,Apr-2024,1384940,20162,661,1.5
+Leo Messi @leomessi,May-2024,1396520,36812,1686,2.76
+Leo Messi @leomessi,Jun-2024,1410520,25880,690,1.88
+Leo Messi @leomessi,Jul-2024,1422970,17640,531,1.28
+Leo Messi @leomessi,Aug-2024,1436052,29260,1202,2.12
+Leo Messi @leomessi,Sep-2024,1453313,25102,1233,1.81
+Leo Messi @leomessi,Oct-2024,1453903,22821,481,1.6
+Leo Messi @leomessi,Nov-2024,1468249,32582,1142,2.3
+Leo Messi @leomessi,Dec-2024,1481519,19108,662,1.33
+Leo Messi @leomessi,Jan-2025,1498567,44526,1213,3.05
+Leo Messi @leomessi,Feb-2025,1522115,22455,939,1.54
+Leo Messi @leomessi,Mar-2025,1543058,26780,1043,1.8
+Leo Messi @leomessi,Apr-2025,1563016,18452,831,1.23
+Leo Messi @leomessi,May-2025,1595764,26195,670,1.68
+Selena Gomez @selenagomez,Jun-2023,3156796,74346,1523,2.4
+Selena Gomez @selenagomez,Jul-2023,3180417,64377,1724,2.08
+Selena Gomez @selenagomez,Aug-2023,3195328,76108,2405,2.46
+Selena Gomez @selenagomez,Sep-2023,3234847,92952,2242,2.94
+Selena Gomez @selenagomez,Oct-2023,3254526,92734,4295,2.98
+Selena Gomez @selenagomez,Nov-2023,3281830,49748,1979,1.58
+Selena Gomez @selenagomez,Dec-2023,3318380,68335,1862,2.12
+Selena Gomez @selenagomez,Jan-2024,3373251,40013,1877,1.24
+Selena Gomez @selenagomez,Feb-2024,3411366,57244,1744,1.73
+Selena Gomez @selenagomez,Mar-2024,3458815,84807,3978,2.57
+Selena Gomez @selenagomez,Apr-2024,3497735,79890,1799,2.34
+Selena Gomez @selenagomez,May-2024,3538771,46827,2198,1.39
+Selena Gomez @selenagomez,Jun-2024,3579344,36155,897,1.04
+Selena Gomez @selenagomez,Jul-2024,3602352,75558,3079,2.18
+Selena Gomez @selenagomez,Aug-2024,3616918,87687,2377,2.49
+Selena Gomez @selenagomez,Sep-2024,3664960,60501,2564,1.72
+Selena Gomez @selenagomez,Oct-2024,3719263,86109,3190,2.4
+Selena Gomez @selenagomez,Nov-2024,3764131,44693,1386,1.22
+Selena Gomez @selenagomez,Dec-2024,3785031,111507,3545,3.04
+Selena Gomez @selenagomez,Jan-2025,3807441,106002,4127,2.89
+Selena Gomez @selenagomez,Feb-2025,3845762,82830,2880,2.23
+Selena Gomez @selenagomez,Mar-2025,3912169,54398,2266,1.45
+Selena Gomez @selenagomez,Apr-2025,3930343,113229,5504,3.02
+Selena Gomez @selenagomez,May-2025,3979127,112598,3502,2.92
+Kylie @kyliejenner,Jun-2023,2443851,71537,3261,3.06
+Kylie @kyliejenner,Jul-2023,2467399,39204,1237,1.64
+Kylie @kyliejenner,Aug-2023,2486564,33294,1222,1.39
+Kylie @kyliejenner,Sep-2023,2522077,72441,2961,2.99
+Kylie @kyliejenner,Oct-2023,2536151,56556,2810,2.34
+Kylie @kyliejenner,Nov-2023,2563461,32816,1166,1.33
+Kylie @kyliejenner,Dec-2023,2593681,62093,2550,2.49
+Kylie @kyliejenner,Jan-2024,2626890,45155,1300,1.77
+Kylie @kyliejenner,Feb-2024,2659923,72726,3447,2.86
+Kylie @kyliejenner,Mar-2024,2693355,54478,1909,2.09
+Kylie @kyliejenner,Apr-2024,2727976,65578,2877,2.51
+Kylie @kyliejenner,May-2024,2770744,77026,2321,2.86
+Kylie @kyliejenner,Jun-2024,2787744,60119,1267,2.2
+Kylie @kyliejenner,Jul-2024,2812320,54311,1970,2.0
+Kylie @kyliejenner,Aug-2024,2850093,30239,638,1.08
+Kylie @kyliejenner,Sep-2024,2855611,75536,2326,2.73
+Kylie @kyliejenner,Oct-2024,2885084,73280,1940,2.61
+Kylie @kyliejenner,Nov-2024,2898387,65091,1468,2.3
+Kylie @kyliejenner,Dec-2024,2928031,60940,2384,2.16
+Kylie @kyliejenner,Jan-2025,2947771,72284,3561,2.57
+Kylie @kyliejenner,Feb-2025,2947400,76348,2147,2.66
+Kylie @kyliejenner,Mar-2025,2979621,55955,1250,1.92
+Kylie @kyliejenner,Apr-2025,3016940,54845,1382,1.86
+Kylie @kyliejenner,May-2025,3060169,40176,1105,1.35
+Dwayne Johnson @therock,Jun-2023,4075309,94563,2685,2.39
+Dwayne Johnson @therock,Jul-2023,4124314,120006,5056,3.03
+Dwayne Johnson @therock,Aug-2023,4209319,77417,2123,1.89
+Dwayne Johnson @therock,Sep-2023,4273142,73153,3126,1.79
+Dwayne Johnson @therock,Oct-2023,4325355,84272,1932,1.99
+Dwayne Johnson @therock,Nov-2023,4385361,86971,2974,2.05
+Dwayne Johnson @therock,Dec-2023,4423676,79493,3058,1.87
+Dwayne Johnson @therock,Jan-2024,4440313,100803,2153,2.32
+Dwayne Johnson @therock,Feb-2024,4516714,90617,4140,2.1
+Dwayne Johnson @therock,Mar-2024,4529454,104964,2612,2.38
+Dwayne Johnson @therock,Apr-2024,4579256,48220,1811,1.09
+Dwayne Johnson @therock,May-2024,4611305,132826,4949,2.99
+Dwayne Johnson @therock,Jun-2024,4693986,89960,3271,1.99
+Dwayne Johnson @therock,Jul-2024,4711874,135840,4290,2.97
+Dwayne Johnson @therock,Aug-2024,4765612,54441,1609,1.18
+Dwayne Johnson @therock,Sep-2024,4798430,129065,2671,2.75
+Dwayne Johnson @therock,Oct-2024,4832274,59742,2443,1.29
+Dwayne Johnson @therock,Nov-2024,4901124,110661,5126,2.36
+Dwayne Johnson @therock,Dec-2024,4970054,77735,1968,1.6
+Dwayne Johnson @therock,Jan-2025,5035400,125946,5567,2.61
+Dwayne Johnson @therock,Feb-2025,5085227,88688,3839,1.82
+Dwayne Johnson @therock,Mar-2025,5139062,86418,4141,1.76
+Dwayne Johnson @therock,Apr-2025,5184859,129711,5530,2.61
+Dwayne Johnson @therock,May-2025,5265192,63511,2989,1.26
+Ariana Grande @arianagrande,Jun-2023,531643,8719,408,1.72
+Ariana Grande @arianagrande,Jul-2023,537015,9550,194,1.81
+Ariana Grande @arianagrande,Aug-2023,543255,15760,586,3.01
+Ariana Grande @arianagrande,Sep-2023,548334,12412,415,2.34
+Ariana Grande @arianagrande,Oct-2023,551059,12922,550,2.44
+Ariana Grande @arianagrande,Nov-2023,553224,14290,624,2.7
+Ariana Grande @arianagrande,Dec-2023,558722,6230,227,1.16
+Ariana Grande @arianagrande,Jan-2024,561802,10579,493,1.97
+Ariana Grande @arianagrande,Feb-2024,565101,7267,311,1.34
+Ariana Grande @arianagrande,Mar-2024,569843,12744,293,2.29
+Ariana Grande @arianagrande,Apr-2024,576239,6600,294,1.2
+Ariana Grande @arianagrande,May-2024,580540,14005,314,2.47
+Ariana Grande @arianagrande,Jun-2024,582142,15284,740,2.75
+Ariana Grande @arianagrande,Jul-2024,583866,17352,739,3.1
+Ariana Grande @arianagrande,Aug-2024,587607,15009,551,2.65
+Ariana Grande @arianagrande,Sep-2024,592855,10958,517,1.94
+Ariana Grande @arianagrande,Oct-2024,598727,6123,208,1.06
+Ariana Grande @arianagrande,Nov-2024,601713,6694,157,1.14
+Ariana Grande @arianagrande,Dec-2024,608701,15169,568,2.59
+Ariana Grande @arianagrande,Jan-2025,612270,17904,559,3.02
+Ariana Grande @arianagrande,Feb-2025,620505,8979,439,1.52
+Ariana Grande @arianagrande,Mar-2025,625465,6406,314,1.07
+Ariana Grande @arianagrande,Apr-2025,632420,7257,265,1.19
+Ariana Grande @arianagrande,May-2025,638784,18771,669,3.04
+Kim Kardashian @kimkardashian,Jun-2023,2034511,38840,1508,1.98
+Kim Kardashian @kimkardashian,Jul-2023,2064614,44773,2105,2.27
+Kim Kardashian @kimkardashian,Aug-2023,2107865,32772,840,1.59
+Kim Kardashian @kimkardashian,Sep-2023,2120424,40868,1250,1.99
+Kim Kardashian @kimkardashian,Oct-2023,2133579,62914,3119,3.09
+Kim Kardashian @kimkardashian,Nov-2023,2156519,51677,1864,2.48
+Kim Kardashian @kimkardashian,Dec-2023,2188332,51851,1289,2.43
+Kim Kardashian @kimkardashian,Jan-2024,2203903,62190,2778,2.95
+Kim Kardashian @kimkardashian,Feb-2024,2211393,63366,2913,3.0
+Kim Kardashian @kimkardashian,Mar-2024,2253757,24575,510,1.11
+Kim Kardashian @kimkardashian,Apr-2024,2289585,68104,1669,3.05
+Kim Kardashian @kimkardashian,May-2024,2307109,50485,1586,2.26
+Kim Kardashian @kimkardashian,Jun-2024,2328858,42609,1201,1.88
+Kim Kardashian @kimkardashian,Jul-2024,2366560,26333,1209,1.16
+Kim Kardashian @kimkardashian,Aug-2024,2390287,60664,2932,2.66
+Kim Kardashian @kimkardashian,Sep-2024,2414751,65181,1787,2.77
+Kim Kardashian @kimkardashian,Oct-2024,2426008,70550,2693,3.02
+Kim Kardashian @kimkardashian,Nov-2024,2448541,35682,1432,1.52
+Kim Kardashian @kimkardashian,Dec-2024,2454244,30116,1209,1.28
+Kim Kardashian @kimkardashian,Jan-2025,2494465,50902,2197,2.13
+Kim Kardashian @kimkardashian,Feb-2025,2534118,53313,1963,2.18
+Kim Kardashian @kimkardashian,Mar-2025,2560314,70493,2263,2.84
+Kim Kardashian @kimkardashian,Apr-2025,2594178,62471,1648,2.47
+Kim Kardashian @kimkardashian,May-2025,2637872,33573,686,1.3
+Beyoncé @beyonce,Jun-2023,139095,2482,82,1.84
+Beyoncé @beyonce,Jul-2023,139262,3910,119,2.89
+Beyoncé @beyonce,Aug-2023,141700,2540,98,1.86
+Beyoncé @beyonce,Sep-2023,143169,3900,189,2.86
+Beyoncé @beyonce,Oct-2023,143381,2750,135,2.01
+Beyoncé @beyonce,Nov-2023,144774,2874,85,2.04
+Beyoncé @beyonce,Dec-2023,145277,1673,39,1.18
+Beyoncé @beyonce,Jan-2024,147216,1849,45,1.29
+Beyoncé @beyonce,Feb-2024,148958,2031,61,1.4
+Beyoncé @beyonce,Mar-2024,149747,4183,143,2.89
+Beyoncé @beyonce,Apr-2024,150506,2083,44,1.41
+Beyoncé @beyonce,May-2024,152390,2038,57,1.37
+Beyoncé @beyonce,Jun-2024,153832,2173,67,1.46
+Beyoncé @beyonce,Jul-2024,154574,3102,126,2.09
+Beyoncé @beyonce,Aug-2024,155578,4273,203,2.88
+Beyoncé @beyonce,Sep-2024,157300,1765,49,1.15
+Beyoncé @beyonce,Oct-2024,159356,2181,57,1.4
+Beyoncé @beyonce,Nov-2024,161553,2812,97,1.8
+Beyoncé @beyonce,Dec-2024,161944,3117,132,2.01
+Beyoncé @beyonce,Jan-2025,164670,1767,48,1.1
+Beyoncé @beyonce,Feb-2025,166791,3374,121,2.1
+Beyoncé @beyonce,Mar-2025,168718,2048,68,1.25
+Beyoncé @beyonce,Apr-2025,169049,2600,81,1.59
+Beyoncé @beyonce,May-2025,170911,1777,52,1.07
+Khloé Kardashian @khloekardashian,Jun-2023,545667,6763,315,1.3
+Khloé Kardashian @khloekardashian,Jul-2023,548172,11989,484,2.28
+Khloé Kardashian @khloekardashian,Aug-2023,553631,6498,234,1.22
+Khloé Kardashian @khloekardashian,Sep-2023,563264,12243,518,2.27
+Khloé Kardashian @khloekardashian,Oct-2023,565975,8871,274,1.62
+Khloé Kardashian @khloekardashian,Nov-2023,571096,13088,485,2.38
+Khloé Kardashian @khloekardashian,Dec-2023,572813,6894,169,1.23
+Khloé Kardashian @khloekardashian,Jan-2024,580153,8655,214,1.53
+Khloé Kardashian @khloekardashian,Feb-2024,584236,7868,369,1.41
+Khloé Kardashian @khloekardashian,Mar-2024,587554,6818,243,1.2
+Khloé Kardashian @khloekardashian,Apr-2024,594224,7273,232,1.26
+Khloé Kardashian @khloekardashian,May-2024,600016,17634,810,3.07
+Khloé Kardashian @khloekardashian,Jun-2024,604285,8108,324,1.4
+Khloé Kardashian @khloekardashian,Jul-2024,612610,17513,642,2.96
+Khloé Kardashian @khloekardashian,Aug-2024,613622,15579,398,2.6
+Khloé Kardashian @khloekardashian,Sep-2024,621425,10237,335,1.7
+Khloé Kardashian @khloekardashian,Oct-2024,622582,7655,293,1.28
+Khloé Kardashian @khloekardashian,Nov-2024,628957,9920,371,1.64
+Khloé Kardashian @khloekardashian,Dec-2024,635038,13114,282,2.11
+Khloé Kardashian @khloekardashian,Jan-2025,637543,10667,256,1.71
+Khloé Kardashian @khloekardashian,Feb-2025,647126,9766,394,1.57
+Khloé Kardashian @khloekardashian,Mar-2025,651730,16426,622,2.62
+Khloé Kardashian @khloekardashian,Apr-2025,650193,11038,528,1.78
+Khloé Kardashian @khloekardashian,May-2025,654104,17407,852,2.79
+Kendall @kendalljenner,Jun-2023,111304,3201,81,2.95
+Kendall @kendalljenner,Jul-2023,112080,1269,53,1.18
+Kendall @kendalljenner,Aug-2023,113855,1456,63,1.33
+Kendall @kendalljenner,Sep-2023,115138,1615,40,1.44
+Kendall @kendalljenner,Oct-2023,116516,2715,96,2.41
+Kendall @kendalljenner,Nov-2023,117435,2017,93,1.8
+Kendall @kendalljenner,Dec-2023,119314,2241,70,1.94
+Kendall @kendalljenner,Jan-2024,120263,2315,67,1.98
+Kendall @kendalljenner,Feb-2024,121476,1778,83,1.53
+Kendall @kendalljenner,Mar-2024,123708,2186,79,1.83
+Kendall @kendalljenner,Apr-2024,125090,1543,74,1.29
+Kendall @kendalljenner,May-2024,126823,2860,85,2.32
+Kendall @kendalljenner,Jun-2024,128305,2874,103,2.32
+Kendall @kendalljenner,Jul-2024,129321,3605,157,2.91
+Kendall @kendalljenner,Aug-2024,130317,1950,82,1.56
+Kendall @kendalljenner,Sep-2024,131066,1398,51,1.11
+Kendall @kendalljenner,Oct-2024,132690,2234,99,1.76
+Kendall @kendalljenner,Nov-2024,134238,1639,74,1.28
+Kendall @kendalljenner,Dec-2024,135399,3513,86,2.66
+Kendall @kendalljenner,Jan-2025,136090,1984,82,1.52
+Kendall @kendalljenner,Feb-2025,138042,3296,119,2.47
+Kendall @kendalljenner,Mar-2025,140358,2110,64,1.55
+Kendall @kendalljenner,Apr-2025,140513,2703,130,2.02
+Kendall @kendalljenner,May-2025,142969,1868,70,1.36
+Justin Bieber @justinbieber,Jun-2023,153334,1588,73,1.08
+Justin Bieber @justinbieber,Jul-2023,154966,4438,164,2.97
+Justin Bieber @justinbieber,Aug-2023,156888,3788,93,2.47
+Justin Bieber @justinbieber,Sep-2023,158632,3414,130,2.23
+Justin Bieber @justinbieber,Oct-2023,161481,4632,221,3.01
+Justin Bieber @justinbieber,Nov-2023,162683,3093,72,1.95
+Justin Bieber @justinbieber,Dec-2023,164355,3587,114,2.25
+Justin Bieber @justinbieber,Jan-2024,166897,1851,55,1.14
+Justin Bieber @justinbieber,Feb-2024,167721,3479,165,2.17
+Justin Bieber @justinbieber,Mar-2024,168010,2843,86,1.74
+Justin Bieber @justinbieber,Apr-2024,169408,2455,82,1.5
+Justin Bieber @justinbieber,May-2024,172515,2211,55,1.31
+Justin Bieber @justinbieber,Jun-2024,171913,4864,150,2.92
+Justin Bieber @justinbieber,Jul-2024,173585,3751,146,2.25
+Justin Bieber @justinbieber,Aug-2024,175087,2049,102,1.23
+Justin Bieber @justinbieber,Sep-2024,175869,3525,133,2.08
+Justin Bieber @justinbieber,Oct-2024,177639,2522,118,1.49
+Justin Bieber @justinbieber,Nov-2024,179393,2529,65,1.45
+Justin Bieber @justinbieber,Dec-2024,181157,3858,84,2.18
+Justin Bieber @justinbieber,Jan-2025,182476,4655,156,2.64
+Justin Bieber @justinbieber,Feb-2025,181882,3276,120,1.87
+Justin Bieber @justinbieber,Mar-2025,184693,2420,61,1.34
+Justin Bieber @justinbieber,Apr-2025,185240,4238,136,2.36
+Justin Bieber @justinbieber,May-2025,186371,1958,48,1.08
+Taylor Swift @taylorswift,Jun-2023,344990,3636,96,1.08
+Taylor Swift @taylorswift,Jul-2023,350633,5126,205,1.52
+Taylor Swift @taylorswift,Aug-2023,353219,8143,221,2.37
+Taylor Swift @taylorswift,Sep-2023,357615,4287,117,1.23
+Taylor Swift @taylorswift,Oct-2023,362462,9643,307,2.75
+Taylor Swift @taylorswift,Nov-2023,366891,8571,224,2.4
+Taylor Swift @taylorswift,Dec-2023,371647,3813,86,1.05
+Taylor Swift @taylorswift,Jan-2024,374788,5306,110,1.45
+Taylor Swift @taylorswift,Feb-2024,379147,6987,326,1.93
+Taylor Swift @taylorswift,Mar-2024,380566,10027,303,2.71
+Taylor Swift @taylorswift,Apr-2024,383031,8352,234,2.24
+Taylor Swift @taylorswift,May-2024,384163,8637,278,2.32
+Taylor Swift @taylorswift,Jun-2024,384005,6101,295,1.67
+Taylor Swift @taylorswift,Jul-2024,391102,9883,239,2.59
+Taylor Swift @taylorswift,Aug-2024,394939,11015,484,2.91
+Taylor Swift @taylorswift,Sep-2024,401067,7421,153,1.89
+Taylor Swift @taylorswift,Oct-2024,405694,9196,255,2.33
+Taylor Swift @taylorswift,Nov-2024,406281,5195,234,1.34
+Taylor Swift @taylorswift,Dec-2024,410381,5512,155,1.38
+Taylor Swift @taylorswift,Jan-2025,415198,4304,204,1.09
+Taylor Swift @taylorswift,Feb-2025,419756,6498,237,1.6
+Taylor Swift @taylorswift,Mar-2025,421900,9715,436,2.41
+Taylor Swift @taylorswift,Apr-2025,426659,9390,375,2.29
+Taylor Swift @taylorswift,May-2025,433021,5848,277,1.41
+Virat Kohli @virat.kohli,Jun-2023,1000795,20394,436,2.08
+Virat Kohli @virat.kohli,Jul-2023,1004399,13384,564,1.39
+Virat Kohli @virat.kohli,Aug-2023,1015380,15136,479,1.54
+Virat Kohli @virat.kohli,Sep-2023,1021698,16116,494,1.63
+Virat Kohli @virat.kohli,Oct-2023,1026929,21902,750,2.21
+Virat Kohli @virat.kohli,Nov-2023,1042608,24265,1167,2.44
+Virat Kohli @virat.kohli,Dec-2023,1048559,11139,310,1.09
+Virat Kohli @virat.kohli,Jan-2024,1062716,23275,501,2.24
+Virat Kohli @virat.kohli,Feb-2024,1086946,18135,782,1.74
+Virat Kohli @virat.kohli,Mar-2024,1097293,13312,296,1.24
+Virat Kohli @virat.kohli,Apr-2024,1108073,26336,870,2.46
+Virat Kohli @virat.kohli,May-2024,1128964,16853,751,1.56
+Virat Kohli @virat.kohli,Jun-2024,1143823,17663,666,1.6
+Virat Kohli @virat.kohli,Jul-2024,1160823,19988,454,1.76
+Virat Kohli @virat.kohli,Aug-2024,1171999,16059,582,1.42
+Virat Kohli @virat.kohli,Sep-2024,1187356,32603,1368,2.86
+Virat Kohli @virat.kohli,Oct-2024,1202552,28675,1304,2.49
+Virat Kohli @virat.kohli,Nov-2024,1221075,18308,634,1.55
+Virat Kohli @virat.kohli,Dec-2024,1235908,16822,623,1.41
+Virat Kohli @virat.kohli,Jan-2025,1249550,35374,743,2.89
+Virat Kohli @virat.kohli,Feb-2025,1255291,35760,1756,2.99
+Virat Kohli @virat.kohli,Mar-2025,1274453,36812,1259,2.99
+Virat Kohli @virat.kohli,Apr-2025,1287377,21089,946,1.71
+Virat Kohli @virat.kohli,May-2025,1300442,13966,529,1.11
+Jennifer Lopez @jlo,Jun-2023,1007827,11629,475,1.2
+Jennifer Lopez @jlo,Jul-2023,1016347,17072,712,1.75
+Jennifer Lopez @jlo,Aug-2023,1025560,21321,932,2.17
+Jennifer Lopez @jlo,Sep-2023,1033560,16924,656,1.7
+Jennifer Lopez @jlo,Oct-2023,1045275,15322,317,1.5
+Jennifer Lopez @jlo,Nov-2023,1060377,29056,599,2.8
+Jennifer Lopez @jlo,Dec-2023,1071417,30836,1355,3.0
+Jennifer Lopez @jlo,Jan-2024,1087839,32590,994,3.09
+Jennifer Lopez @jlo,Feb-2024,1095903,21476,833,2.04
+Jennifer Lopez @jlo,Mar-2024,1114584,30621,1516,2.88
+Jennifer Lopez @jlo,Apr-2024,1123247,20698,871,1.92
+Jennifer Lopez @jlo,May-2024,1142642,16883,393,1.51
+Jennifer Lopez @jlo,Jun-2024,1146387,18257,493,1.64
+Jennifer Lopez @jlo,Jul-2024,1152585,12496,256,1.11
+Jennifer Lopez @jlo,Aug-2024,1163910,20585,831,1.84
+Jennifer Lopez @jlo,Sep-2024,1176912,16906,819,1.51
+Jennifer Lopez @jlo,Oct-2024,1194473,34513,1174,2.99
+Jennifer Lopez @jlo,Nov-2024,1205139,26836,671,2.28
+Jennifer Lopez @jlo,Dec-2024,1218193,26988,954,2.29
+Jennifer Lopez @jlo,Jan-2025,1233374,18023,455,1.5
+Jennifer Lopez @jlo,Feb-2025,1241864,31781,969,2.64
+Jennifer Lopez @jlo,Mar-2025,1250833,13955,684,1.17
+Jennifer Lopez @jlo,Apr-2025,1272225,30432,749,2.45
+Jennifer Lopez @jlo,May-2025,1281316,33719,901,2.7

@@ -30,7 +30,7 @@ interface Trends {
 
 const readCsvFile = async (fileName: string): Promise<any[]> => {
   try {
-    const response = await fetch(`/profiledata/${fileName}`);
+    const response = await fetch(`public/profiledata/${fileName}`);
     const csvText = await response.text();
     const rows = csvText.split('\n').slice(1); // Skip header row
     return rows.map((row) => {
